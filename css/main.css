@@ -5,7 +5,7 @@
 
 body {
   background-image: url("../img/background.jpg");
-  background-size: 100% auto;
+  background-size: auto 100%;
 }
 
 .main {
@@ -15,4 +15,13 @@ body {
 	left:50%;
 	width:500px;
 	margin:-150px 0 0 -250px;
+}
+
+.nav {
+	position: absolute;
+	width: 100%;
+	background: #2F3238;
+	height: 50px;
+	bottom: 0;
+	z-index: 2;
 }
