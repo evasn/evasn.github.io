@@ -6,7 +6,9 @@
 body {
   background-image: url("../img/background_lq.jpg");
   background-size: 100%;
+  overflow:hidden;
 }
+
 a {
 	text-decoration:none;
 	margin:0;
@@ -52,4 +54,5 @@ a {
 	position:relative;
 	left:50%;
 	margin-left:-69px;
+	top:0px;
 } 
