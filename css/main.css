@@ -63,6 +63,8 @@ a {
 	left:50%;
 	margin-left:-69px;
 	top:0px;
+	width:150px;
+	max-width: 150px;
 } 
 
 @media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
@@ -73,7 +75,7 @@ a {
 	}
 	body {
 	  background-image: url("../img/background_lq.jpg");
-	  background-size: cover !important;
+	  background-size: cover	 !important;
 	  overflow:hidden;
 	  min-width:320px !important;
 	  width:100% !important;
