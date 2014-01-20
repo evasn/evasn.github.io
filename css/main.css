@@ -37,3 +37,7 @@ body {
 	bottom: 0;
 	z-index: 2;
 }
+.social-media {
+	height:45px;
+	width:45px;
+}
