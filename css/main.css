@@ -5,7 +5,13 @@
 
 body {
   background-image: url("../img/background_lq.jpg");
-  background-size: cover;
+  background-size: 100%;
+}
+a {
+	text-decoration:none;
+	margin:0;
+	border-style: none;
+	border-width:0px;
 }
 
 .main {
