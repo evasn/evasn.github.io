@@ -48,10 +48,11 @@ a {
 	z-index: 2;
 }
 .social-media {
-	padding-top:2px;
-	height:46px;
-	width:46px;
+	padding-top:4px;
+	height:42px;
+	width:42px;
 }
+
 .social-container{
 	position:relative;
 	left:50%;
@@ -59,7 +60,7 @@ a {
 	top:0px;
 } 
 
-@media (max-width: 599px) {
+@media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
 	.main {
 		width: 320px !important;
 		min-width: 320px !important;
