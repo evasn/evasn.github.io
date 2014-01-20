@@ -61,6 +61,7 @@ a {
 @media (max-width: 599px) {
 	.main {
 		width: 320px !important;
+		min-width: 320px !important;
 		margin-left: -160px !important;
 	}
 }
