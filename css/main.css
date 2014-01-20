@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("../img/background_lq.jpg");
+  background-image: url("../img/background_lqx.jpg");
   background-size: cover;
 }
 
@@ -38,6 +38,12 @@ body {
 	z-index: 2;
 }
 .social-media {
-	height:45px;
-	width:45px;
+	padding-top:2px;
+	height:46px;
+	width:46px;
 }
+.social-container{
+	position:relative;
+	left:50%;
+	margin-left:-69px;
+} 
