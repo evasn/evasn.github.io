@@ -53,6 +53,10 @@ a {
 	width:42px;
 }
 
+.social-media:hover {
+	box-shadow: 0px 0px 3px #ffffff;
+}
+
 .social-container{
 	position:relative;
 	left:50%;
