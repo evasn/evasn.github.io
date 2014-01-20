@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: url("../img/background.jpg");
+  background-image: url("../img/background_lq.jpg");
   background-size: cover;
 }
 
@@ -19,7 +19,7 @@ body {
 
 .main h1 {
 	font-size: 3em;
-	font-family: 'Helvetica Neue';
+	font-family: 'Helvetica Neue', sans-serif;
 	color: rgb(188,188,188);
 	text-shadow:2px 2px 1px #000000;
 }
