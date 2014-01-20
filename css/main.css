@@ -51,6 +51,7 @@ a {
 	padding-top:4px;
 	height:42px;
 	width:42px;
+	border-radius:21px;
 }
 
 .social-media:hover {
@@ -69,5 +70,12 @@ a {
 		width: 320px !important;
 		min-width: 320px !important;
 		margin-left: -160px !important;
+	}
+	body {
+	  background-image: url("../img/background_lq.jpg");
+	  background-size: 600px !important;
+	  overflow:hidden;
+	  min-width:320px !important;
+	  width:100% !important;
 	}
 }
