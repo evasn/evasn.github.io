@@ -9,6 +9,11 @@ body {
   overflow:hidden;
 }
 
+.cover {
+	background-color: #000000;
+	opacity:0.6;
+}
+
 a {
 	text-decoration:none;
 	margin:0;
@@ -24,6 +29,7 @@ a {
 	width:600px;
 	margin:-150px 0 0 -300px;
 	min-width:600px;
+	z-index: 1;
 }
 
 .main h1 {
@@ -37,6 +43,10 @@ a {
 	font-size: 1.6em;
 	line-height: 1.4em;
 	padding-top: 15px;
+	color: #ffffff;
+}
+.main h2 span {
+	color: #45b682;
 }
 
 .nav {
