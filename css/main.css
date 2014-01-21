@@ -47,8 +47,7 @@ a {
 	bottom: 0;
 	z-index: 2;
 }
-.social-media {
-	padding-top:4px;
+.social-media {≤
 	height:42px;
 	width:42px;
 	border-radius:21px;
@@ -62,9 +61,11 @@ a {
 	position:relative;
 	left:50%;
 	margin-left:-69px;
-	top:0px;
+	top:4px;
 	width:150px;
 	max-width: 150px;
+	height:42px;
+	max-height: 42px;
 } 
 
 @media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
