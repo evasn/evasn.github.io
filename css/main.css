@@ -5,7 +5,7 @@
 
 body {
   background-image: url("../img/background_lq.jpg");
-  background-size: 1920px;
+  background-size: contain;
   background-position:center;
   background-repeat:no-repeat;
   background-color:#2F3238;
