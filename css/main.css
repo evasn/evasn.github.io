@@ -47,7 +47,7 @@ a {
 	font-size: 1.6em;
 	line-height: 1.4em;
 	padding-top: 15px;
-	color: #ffffff;
+	color: #dddddd; /*rgb(255,255,255) = #ffffff*/
 }
 .main h2 span {
 	color: #45b682;
