@@ -102,10 +102,10 @@ a {
 	position:relative;
 	text-align:center;
 	color:rgb(255,255,255);
-	font-weight:200;
-	font-size:2em;
-	font-family:'Medula One', sans-serif;
-	padding-top:21px;
+	font-weight:600;
+	font-size:1.2em;
+	font-family:'Raleway', sans-serif;
+	padding-top:28px;
 }
 
 @media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
