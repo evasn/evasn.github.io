@@ -95,6 +95,10 @@ a {
 	z-index:2;
 }
 .cv {
+	width:100px;
+	height:100px;
+	right:0px;
+	background-color:rgba(0,0,0,0.4);
 	position:relative;
 	text-align:center;
 	color:rgb(237,5,120);
