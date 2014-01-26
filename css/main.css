@@ -96,8 +96,7 @@ a {
 }
 .cv {
 	position:relative;
-	left:50%;
-	margin-left:-75px;
+	text-align:center;
 	color:#ff2222;
 	font-weight:200;
 	font-size:1.4em;
