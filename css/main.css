@@ -47,13 +47,14 @@ a {
 }
 .main h2 {
 	font-family: 'Raleway', sans-serif;
-	font-weight:200;
-	font-size: 1.6em;
+	font-weight:100;
+	font-size: 1.8em;
 	line-height: 1.4em;
 	padding-top: 15px;
 	color: #ffffff;
 }
 .main h2 span {
+	font-weight:200;
 	color: #45b682;
 }
 
