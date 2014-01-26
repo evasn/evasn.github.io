@@ -10,6 +10,7 @@ body {
   background-repeat:no-repeat;
   background-color:#2F3238;
   overflow:hidden;
+  background-position-x: 70%;
 }
 
 .cover {
