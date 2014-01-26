@@ -39,7 +39,8 @@ a {
 
 .main h1 {
 	font-size: 3em;
-	font-family: 'Helvetica Neue', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	/*font-family: 'Helvetica Neue', sans-serif;*/
 	color: rgb(255,255,255); /*rgb(188,188,188);*/
 	text-shadow:2px 2px 1px #000000;
 }
