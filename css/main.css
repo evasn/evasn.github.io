@@ -90,8 +90,8 @@ a {
 .cv-container {
 	position:absolute;
 	width:100%;
-	height:50px;
-	bottom:50px;
+	height:100px;
+	bottom:100px;
 	z-index:2;
 }
 .cv {
