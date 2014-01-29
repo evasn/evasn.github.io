@@ -122,7 +122,8 @@ a, a:hover, a:visited {
 	-ms-transform:rotate(90deg); /* IE 9 */
 	-webkit-transform:rotate(90deg); /* Safari and Chrome */
 	color: #ffffff;
-	
+	position:absolute;
+	bottom:50px;
 }
 
 @media only screen and (max-width: 580px), @media only screen and (max-device-width: 599px) {
