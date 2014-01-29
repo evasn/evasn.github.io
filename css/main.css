@@ -113,6 +113,9 @@ a, a:hover, a:visited {
 	right:0px;
 	line-height:50px;
 }
+.cv:hover {
+	background-color:#45b682;
+}
 .text-responsive {
 	display:none;
 }
@@ -158,6 +161,9 @@ a, a:hover, a:visited {
 	}
 	.mediators {
 		bottom:170px !important;
+	}
+	.hide {
+		display:none !important;
 	}
 }
 @media only screen and (max-width: 454px), @media only screen and (max-device-width: 454px) {
