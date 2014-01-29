@@ -109,8 +109,8 @@ a, a:hover, a:visited {
 	font-weight: 600;
 	font-size: 1em;
 	font-family: 'Raleway', sans-serif;
-	position: relative;
-	top: -42px;
+	position: absolute;
+	top: 0px;
 	padding-top: 16px;
 }
 .text-responsive {
@@ -121,6 +121,7 @@ a, a:hover, a:visited {
 	.main {
 		width: 320px !important;
 		min-width: 320px !important;
+		max-width: 320px !important;
 		margin-left: -160px !important;
 	}
 	body {
@@ -139,4 +140,6 @@ a, a:hover, a:visited {
 	.text-responsive {
 		display:inline-block;
 	}
+}
+@media only screen and (max-width: 320px), @media only screen and (max-device-width: 320px) {
 }
