@@ -81,8 +81,7 @@ a, a:hover, a:visited {
 
 .social-container{
 	position:relative;
-	left:50%;
-	margin-left:-69px;
+	left:10px;
 	top:4px;
 	width:150px;
 	max-width: 150px;
