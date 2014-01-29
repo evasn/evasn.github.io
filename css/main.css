@@ -122,15 +122,15 @@ a, a:hover, a:visited {
 	transform: translateX(-44%) rotate(-90deg);
 	-ms-transform: translateX(-44%) rotate(-90deg); /* IE 9 */
 	-webkit-transform: translateX(-44%) rotate(-90deg); /* Safari and Chrome */
-	color: #cccccc;
+	color: #aaaaaa;
 	position:absolute;
 	bottom: 215px;
 	font-size:0.7em;
 	font-family:"Raleway", sans-serif;
 	font-weight:100;
 }
-.mediators > a, .mediators > a:visited, .mediators > a:hover {
-	color: #cccccc;
+.mediators--link, .mediators--link:visited, .mediators--link:hover {
+	color: #aaaaaa;
 	font-weight:200;
 }
 
