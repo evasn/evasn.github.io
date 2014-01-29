@@ -167,6 +167,9 @@ a, a:hover, a:visited {
 	}
 }
 @media only screen and (max-height: 350px), @media only screen and (max-device-height: 350px) {
+	.main {
+		margin-top:-200px !important;
+	}
 	.main h1 {
 		font-size: 2.5em !important;
 	}
