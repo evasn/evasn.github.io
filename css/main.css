@@ -115,7 +115,7 @@ a, a:hover, a:visited {
 }
 .cv:hover {
 	background-color:#ffffff;
-	color:#45b682;
+	color:#45b682 !important;
 }
 .cv--link:hover {
 	color:#45b682;
