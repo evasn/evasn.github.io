@@ -126,6 +126,9 @@ a, a:hover, a:visited {
 	  min-width:320px !important;
 	  width:100% !important;
 	}
+	.cv {
+		width:120px !important;
+	}
 	.text-big {
 		display:none;
 	}
