@@ -111,6 +111,7 @@ a, a:hover, a:visited {
 	font-family: 'Raleway', sans-serif;
 	position: absolute;
 	top: 0px;
+	right:0px;
 	padding-top: 16px;
 }
 .text-responsive {
@@ -118,12 +119,15 @@ a, a:hover, a:visited {
 }
 
 .mediators {
-	transform:rotate(90deg);
-	-ms-transform:rotate(90deg); /* IE 9 */
-	-webkit-transform:rotate(90deg); /* Safari and Chrome */
+	transform: translateX(-44%) rotate(-90deg);
+	-ms-transform: translateX(-44%) rotate(-90deg); /* IE 9 */
+	-webkit-transform: translateX(-44%) rotate(-90deg); /* Safari and Chrome */
 	color: #ffffff;
 	position:absolute;
-	bottom:50px;
+	bottom: 170px;
+	font-size:0.8em;
+	font-family:"Raleway", sans-serif;
+	font-weight:100;
 }
 
 @media only screen and (max-width: 580px), @media only screen and (max-device-width: 599px) {
