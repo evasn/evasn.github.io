@@ -156,6 +156,9 @@ a, a:hover, a:visited {
 	.text-responsive {
 		display:inline-block !important;
 	}
+	.mediators {
+		bottom:170px !important;
+	}
 }
 @media only screen and (max-width: 454px), @media only screen and (max-device-width: 454px) {
 	.hide {
@@ -164,5 +167,8 @@ a, a:hover, a:visited {
 	.social-container{
 		left:0% !important;
 		margin-left:10px !important;
+	}
+	.mediators {
+		bottom:170px !important;
 	}
 }
