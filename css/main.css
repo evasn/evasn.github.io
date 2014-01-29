@@ -129,7 +129,7 @@ a, a:hover, a:visited {
 	font-family:"Raleway", sans-serif;
 	font-weight:100;
 }
-.mediators a {
+.mediators a, .mediators a:visited, .mediators a:hover {
 	color: #cccccc;
 	font-weight:200;
 }
