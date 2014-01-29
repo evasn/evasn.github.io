@@ -114,11 +114,7 @@ a, a:hover, a:visited {
 	line-height:50px;
 }
 .cv:hover {
-	background-color:#ffffff;
-	color:#45b682 !important;
-}
-.cv--link:hover {
-	color:#45b682;
+	background-color:#239460;
 }
 .text-responsive {
 	display:none;
