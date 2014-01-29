@@ -19,11 +19,12 @@ body {
 	height:100%;
 }
 
-a {
+a, a:hover, a:visited {
 	text-decoration:none;
 	margin:0;
 	border-style: none;
 	border-width:0px;
+	color:#ffffff;
 }
 
 .main {
