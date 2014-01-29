@@ -134,7 +134,7 @@ a, a:hover, a:visited {
 	font-weight:200;
 }
 
-@media only screen and (max-width: 580px), @media only screen and (max-device-width: 599px) {
+@media only screen and (max-width: 620px), @media only screen and (max-device-width: 620px) {
 	.main {
 		width: 320px !important;
 		min-width: 320px !important;
@@ -158,7 +158,7 @@ a, a:hover, a:visited {
 		display:inline-block !important;
 	}
 }
-@media only screen and (max-width: 320px), @media only screen and (max-device-width: 320px) {
+@media only screen and (max-width: 454px), @media only screen and (max-device-width: 454px) {
 	.hide {
 		display:none !important;
 	}
