@@ -117,6 +117,9 @@ a, a:hover, a:visited {
 	background-color:#ffffff;
 	color:#45b682;
 }
+.cv--link, .cv--link:hover, .cv--link:visited {
+	color:#45b682;
+}
 .text-responsive {
 	display:none;
 }
