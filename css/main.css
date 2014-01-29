@@ -64,6 +64,8 @@ a, a:hover, a:visited {
 	width: 100%;
 	background: #2F3238;
 	height: 50px;
+	max-height: 50px;
+	min-height: 50px;
 	bottom: 0;
 	z-index: 2;
 }
@@ -98,12 +100,14 @@ a, a:hover, a:visited {
 .cv {
 	width: 240px;
 	height: 50px;
+	max-height:50px;
+	min-height:50px;
 	float: right;
 	background-color: rgb(0,0,0);
 	text-align: center;
 	color: rgb(255,255,255);
 	font-weight: 600;
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: 'Raleway', sans-serif;
 	position: relative;
 	top: -42px;
@@ -113,7 +117,7 @@ a, a:hover, a:visited {
 	display:none;
 }
 
-@media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
+@media only screen and (max-width: 580px), @media only screen and (max-device-width: 599px) {
 	.main {
 		width: 320px !important;
 		min-width: 320px !important;
@@ -127,7 +131,7 @@ a, a:hover, a:visited {
 	  width:100% !important;
 	}
 	.cv {
-		width:120px !important;
+		width:110px !important;
 	}
 	.text-big {
 		display:none;
