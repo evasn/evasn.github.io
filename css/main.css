@@ -109,6 +109,9 @@ a, a:hover, a:visited {
 	top: -42px;
 	padding-top: 16px;
 }
+.text-responsive {
+	display:none;
+}
 
 @media only screen and (max-width: 599px), @media only screen and (max-device-width: 599px) {
 	.main {
@@ -122,5 +125,11 @@ a, a:hover, a:visited {
 	  overflow:hidden;
 	  min-width:320px !important;
 	  width:100% !important;
+	}
+	.text-big {
+		display:none;
+	}
+	.text-responsive {
+		display:inline-block;
 	}
 }
