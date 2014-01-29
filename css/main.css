@@ -129,6 +129,10 @@ a, a:hover, a:visited {
 	font-family:"Raleway", sans-serif;
 	font-weight:100;
 }
+.mediators a {
+	color: #cccccc;
+	font-weight:200;
+}
 
 @media only screen and (max-width: 580px), @media only screen and (max-device-width: 599px) {
 	.main {
