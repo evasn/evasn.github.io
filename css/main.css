@@ -167,7 +167,7 @@ a, a:hover, a:visited {
 		display:none !important;
 	}
 }
-@media only screen and (max-height: 350px), @media only screen and (max-device-height: 350px) {
+/*@media only screen and (max-height: 350px), @media only screen and (max-device-height: 350px) {
 	.main {
 		margin-top:-50px;
 	}
@@ -178,7 +178,7 @@ a, a:hover, a:visited {
 		font-size: 1.3em !important;
 		line-height: 1.2em !important;
 	}
-}
+}*/
 @media only screen and (max-width: 454px), @media only screen and (max-device-width: 454px) {
 	.hide {
 		display:none !important;
