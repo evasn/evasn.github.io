@@ -167,18 +167,14 @@ a, a:hover, a:visited {
 		display:none !important;
 	}
 }
-/*@media only screen and (max-height: 350px), @media only screen and (max-device-height: 350px) {
-	.main {
-		margin-top:-50px;
-	}
+@media only screen and (min-height: 350px), @media only screen and (min-device-height: 350px) {
 	.main h1 {
-		font-size: 2.5em !important;
+		line-height: 1em !important;
 	}
 	.main h2 {
-		font-size: 1.3em !important;
 		line-height: 1.2em !important;
 	}
-}*/
+}
 @media only screen and (max-width: 454px), @media only screen and (max-device-width: 454px) {
 	.hide {
 		display:none !important;
