@@ -137,7 +137,37 @@ a, a:hover, a:visited {
 	font-weight:200;
 }
 
-@media only screen and (max-width: 620px), @media only screen and (max-device-width: 620px) {
+@media all and (max-device-width: 640px) {
+	.main {
+		width: 320px !important;
+		min-width: 320px !important;
+		max-width: 320px !important;
+		margin-left: -160px !important;
+	}
+	body {
+	  background-image: url("../img/bg_7_lr.jpg");
+	  background-size: cover	 !important;
+	  overflow:hidden;
+	  min-width:320px !important;
+	  width:100% !important;
+	}
+	.cv {
+		width:160px !important;
+	}
+	.text-big {
+		display:none !important;
+	}
+	.text-responsive {
+		display:inline-block !important;
+	}
+	.mediators {
+		bottom:170px !important;
+	}
+	.hide {
+		display:none !important;
+	}
+}
+@media all and (max-width: 640px) {
 	.main {
 		width: 320px !important;
 		min-width: 320px !important;
